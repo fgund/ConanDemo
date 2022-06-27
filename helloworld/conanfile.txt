@@ -1,0 +1,10 @@
+[requires]
+boost/1.78.0
+gtest/1.11.0
+catch2/2.12.1
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[options]
